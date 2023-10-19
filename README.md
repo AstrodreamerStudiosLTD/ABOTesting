@@ -16,7 +16,7 @@ Any bugs you find in the puzzles themselves; Collisions, incompleteable, ghost l
 - Click the green <>Code dropdown button and select `Download Zip`
 - Once downloaded, unzip the package and launch Atom_Island.exe
 
-## Useful Links
+## Links
 [Puzzle UX Google Form] (https://docs.google.com/forms/d/e/1FAIpQLSfhY216I6MwPt5mec18tAl0TsikbAQN49CprWKQSiHpdc8O2g/viewform?usp=sf_link)https://docs.google.com/forms/d/e/1FAIpQLSfhY216I6MwPt5mec18tAl0TsikbAQN49CprWKQSiHpdc8O2g/viewform?usp=sf_link)
 
 Thank you for helping us test A Bonnie Odyssey and we hope you enjoy the demo :) 
