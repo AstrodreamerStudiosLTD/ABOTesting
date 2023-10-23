@@ -13,7 +13,7 @@ Subsequent tests of the game we would like you to try and break it as much as po
 Any bugs you find in the puzzles themselves; Collisions, incompleteable, ghost lasers, etc. please change the label of the bug report to the PuzzleBug tag.
 
 ## Download Instructions
-- Click the green <>Code dropdown button and select `Download Zip`
+- Goto https://drive.google.com/drive/u/0/folders/1rZLgypTeEmyO5wjMgO2w8z_4Op93dOUz and download the zip file
 - Once downloaded, unzip the package and launch Atom_Island.exe
 
 ## Links
