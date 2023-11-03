@@ -2,21 +2,20 @@
 
 A Bonnie Odyssey is a narrative puzzle game set in the remote islands of Scotland. The island was bought and setup for scientific advancement, but a disaster occurred. You return to the island after it was evacuated 20 years ago to discover what happened to your father, who was lost in the disaster.
 
+### 6/11/2023
+This week will be about gauging User Experience for the puzzles across the entire game to help us hone the difficulty curve! In the Play menu of the game, there are 2 buttons. Demo - The demo from the first session with minor bug fixes, and Puzzle Test Map - This is where we would like you to work! The puzzle test map will load in an empty level with the puzzles for the welcome center. The loaded puzzles can be changed in the new Debug Menu, accessed through the pause menu, the puzzle sets are in the same order they appear in the game and should gradually become more complex as you progress through the areas. Some areas include an environmental puzzle piece so be on the lookout for those!
 
-You will be testing the demo area of our game A Bonnie Odyssey. This provides a rough perspective to the puzzles in the rest of the game and an introduction to the narrative story. 
+To log your user experience there is a spreadsheet containing the titles of each puzzle. Please MAKE A COPY of this spreadsheet, in the same folder, and input your experience data in there for us to gauge.
 
-## First Test
-For your first test of the demo, we ask that you focus on User Experience. Marking how difficult you find each puzzle in the Google Form and any notes you would like to suggest on the order or difficulty of the puzzle. Please don't focus on any bugs until you have completed all of the puzzles in the demo.
+Any bugs you encounter can be logged in the issues tab at the top of this repo! There are templates set up for both bugs and crashes, explaining what we would like detailed in each! 
 
-## Further Tests 
-Subsequent tests of the game we would like you to try and break it as much as possible. Soft-locking the puzzle panels, jumping on the batteries, clipping through walls. Any bug you find, please report it using the Issues tab of this github repository.
-Any bugs you find in the puzzles themselves; Collisions, incompleteable, ghost lasers, etc. please change the label of the bug report to the PuzzleBug tag.
+We are aware that puzzle fatigue can set in pretty quickly while doing these tests so please feel free to go into the main demo area and re-test that whenever you like! 
 
 ## Download Instructions
-- Goto https://drive.google.com/drive/u/0/folders/1rZLgypTeEmyO5wjMgO2w8z_4Op93dOUz and download the zip file
-- Once downloaded, unzip the package and launch Atom_Island.exe
+- Click the green Clone button at the top of this repository and choose "Download Zip"
+- Unzip the game onto your personal account drive, issues arise when the game is run on the local machine's hard drive
 
 ## Links
-[Puzzle UX Google Form] (https://docs.google.com/forms/d/e/1FAIpQLSfhY216I6MwPt5mec18tAl0TsikbAQN49CprWKQSiHpdc8O2g/viewform?usp=sf_link)https://docs.google.com/forms/d/e/1FAIpQLSfhY216I6MwPt5mec18tAl0TsikbAQN49CprWKQSiHpdc8O2g/viewform?usp=sf_link)
+[Puzzle Experience Spreadsheet](https://drive.google.com/drive/folders/1vXxrpGAjJUM8ZExNS-20tm9YyQjN_9iR?usp=sharing)
 
 Thank you for helping us test A Bonnie Odyssey and we hope you enjoy the demo :) 
