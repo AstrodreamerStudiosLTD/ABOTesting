@@ -12,7 +12,7 @@ Any bugs you encounter can be logged in the issues tab at the top of this repo! 
 We are aware that puzzle fatigue can set in pretty quickly while doing these tests so please feel free to go into the main demo area and re-test that whenever you like! 
 
 ## Download Instructions
-- Go to the releases tab in the right hand pane of this repository
+- [Google drive for the latest release](https://drive.google.com/drive/u/0/folders/1vXxrpGAjJUM8ZExNS-20tm9YyQjN_9iR)
 - Download the latest release (0.6.7.3e)
 - Unzip the game onto your personal account drive, issues arise when the game is run on the local machine's hard drive
 
