@@ -15,6 +15,10 @@ The Puzzle Test Map is still included in this build and feel free to continue te
 - Unzip the game onto your personal account drive, issues arise when the game is run on the local machine's hard drive
 
 ## Links
+[Google drive for the latest release](https://drive.google.com/drive/u/0/folders/18jryr_aOpoogXOC2uOi5xt89YFagl3bx)
+
+[0.6.8.1 Changelog](https://docs.google.com/document/d/1hE87vYhLP_dwVpmUOh_WTMUyL9Uhg_AuBwwp804V550/edit?usp=drive_link)
+
 [Puzzle Experience Spreadsheet](https://drive.google.com/drive/folders/1vXxrpGAjJUM8ZExNS-20tm9YyQjN_9iR?usp=sharing)
 
 Thank you for helping us test A Bonnie Odyssey and we hope you enjoy the demo :) 
